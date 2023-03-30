@@ -1,4 +1,4 @@
-# 2° APPELLO A.A. 2021-2022 di ELEMENTI DI INGEGNERIA DEL SOFTWARE
+# 2° Appello 2021/2022 di Elementi di Ingegneria del Software
 
 ## Studente
 Nome e cognome: Federico Pivotto
